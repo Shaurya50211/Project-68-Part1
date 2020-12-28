@@ -1,0 +1,22 @@
+.my_nav_bar{
+	position: sticky;
+	top:0;
+	z-index: 99999
+}
+
+#video{
+	width:1365px;
+	height: 800px;
+}
+
+body{
+	background-color: lightblue;
+}
+
+i {
+	color: black;
+}
+
+.c{
+	text-align: center;
+}
